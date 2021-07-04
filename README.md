@@ -1,7 +1,8 @@
 # CSL-7020-ML-Assignments
-Repositiry containing the codes for CSL 7020 Machine Learning Course
+Repositiry containing the Assignment for CSL 7020 College Machine Learning Course
 
 The repository contains Code for the 
 * Neural Network
 * PCA KMeans 
-* Linear Classifiers including Perceptron
+* Linear Classifiers including Perceptron, SVM etc
+
